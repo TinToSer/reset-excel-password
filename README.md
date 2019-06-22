@@ -1,6 +1,7 @@
 # Reset-excel-password
-Reset Excel sheet and workbook password protection
+
 This Excel file contains VBA code inside to reset Excel password protection for protecting sheets and workbook from editing.
+
 To run this file we have to enable macro first.
 Steps:-
 1.Open any other excel file and enable macros, if not enabled.
